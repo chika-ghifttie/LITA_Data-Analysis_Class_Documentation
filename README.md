@@ -17,3 +17,6 @@ The data used for this project was provided by our instructor via our Telegram g
     1. For Querying of Data
     2. For Grouping of Data
 - GitHub for Portfolio Building
+
+### Data Cleaning And Preparation
+- INITIAL DATA TABLE
