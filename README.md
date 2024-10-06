@@ -36,6 +36,15 @@ The data used for this project was provided by our instructor via our Telegram g
         CLEANED DATA TABLE
         ![Cleaned Data1](https://github.com/user-attachments/assets/1a691bb1-b786-4444-99a0-a93a17bfb7d5)
 
+        ### Exploratory Data Analysis
+        This has to do with exploring of data to answer some questions about the data. The Staff Data was explored to address inconsistencies and answer key questions such as :
+        - What is the Total No of Staffs?
+        - What is the Average Salary of Staff?
+        - What is the Highest Salary of Staff?
+        - What iss the Fourth Highest Salary of Staff?
+        
+        
+
     
         
     
