@@ -42,7 +42,9 @@ The data used for this project was provided by our instructor via our Telegram g
         - What is the Average Salary of Staff?
         - What is the Highest Salary of Staff?
         - What is the Fourth Highest Salary of Staff?
-          
+
+          ### Data Analysis
+          This section provides a collection of some basic code,queries and even DAX expressions used in this analysis
         
         
 
