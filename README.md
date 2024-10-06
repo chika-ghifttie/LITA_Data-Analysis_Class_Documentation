@@ -20,3 +20,4 @@ The data used for this project was provided by our instructor via our Telegram g
 
 ### Data Cleaning And Preparation
     INITIAL DATA TABLE
+https://github.com/chika-ghifttie/LITA_Data-Analysis_Class_Documentation/tree/main
