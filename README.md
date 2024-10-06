@@ -19,4 +19,4 @@ The data used for this project was provided by our instructor via our Telegram g
 - GitHub for Portfolio Building
 
 ### Data Cleaning And Preparation
-- INITIAL DATA TABLE
+    INITIAL DATA TABLE
