@@ -21,3 +21,4 @@ The data used for this project was provided by our instructor via our Telegram g
 ### Data Cleaning And Preparation
     INITIAL DATA TABLE
     
+![Initial DataTable(Dirty Data)](https://github.com/user-attachments/assets/d8d60abf-fa75-4294-a1dd-14aa6e417cf0)
