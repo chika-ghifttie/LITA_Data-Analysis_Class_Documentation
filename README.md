@@ -28,6 +28,15 @@ The data used for this project was provided by our instructor via our Telegram g
     
     ![Dirty Data](https://github.com/user-attachments/assets/9863972a-afeb-4f74-9b96-9e8c3f7d0160)
 
+    #### Cleaning Steps
+    To ensure a robust dataset and to facilitate analysis, I performed the following cleaning steps:
+      - *Addressed scattered formatting and unnecessary spacing in names,*
+      - *Generated Salary Data. This I achieved by using Excel's "RAND" Function to stimulate realistic Salary values as Salary information was initially not available,*
+      - *Generated a standard E-mail Address.*
+        
+    
+    
+
     
 
 
