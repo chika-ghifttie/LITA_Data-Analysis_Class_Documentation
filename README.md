@@ -19,6 +19,15 @@ The data used for this project was provided by our instructor via our Telegram g
 - GitHub for Portfolio Building
 
 ### Data Cleaning And Preparation
-    INITIAL DATA TABLE
+#### Initial Data Limitations And Challenges
+  - Only staff name and location were provided
+  - Names scattered with inconsistent format (Block Letters, Mixed Case)
+  - Unnecessary spaces in names
+     
+    INITIAL DATA TABLE (Dirty Data)
     
-![Initial DataTable(Dirty Data)](https://github.com/user-attachments/assets/d8d60abf-fa75-4294-a1dd-14aa6e417cf0)
+    ![Dirty Data](https://github.com/user-attachments/assets/9863972a-afeb-4f74-9b96-9e8c3f7d0160)
+
+    
+
+
