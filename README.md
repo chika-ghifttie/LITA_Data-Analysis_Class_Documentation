@@ -23,16 +23,20 @@ The data used for this project was provided by our instructor via our Telegram g
   - Only staff name and location were provided
   - Names scattered with inconsistent format (Block Letters, Mixed Case)
   - Unnecessary spaces in names
-     
-    INITIAL DATA TABLE (Dirty Data)
     
-    ![Dirty Data](https://github.com/user-attachments/assets/9863972a-afeb-4f74-9b96-9e8c3f7d0160)
+    INITIAL DATA TABLE (Dirty Data)
+
+      ![Dirty Data](https://github.com/user-attachments/assets/9863972a-afeb-4f74-9b96-9e8c3f7d0160)
 
     #### Cleaning Steps
     To ensure a robust dataset and to facilitate analysis, I performed the following cleaning steps:
       - *Addressed scattered formatting and unnecessary spacing in names,*
-      - *Generated Salary Data. This I achieved by using Excel's "RAND" Function to stimulate realistic Salary values as Salary information was initially not available,*
-      - *Generated a standard E-mail Address.*
+      - *A realistic Salary Data was also generated as this was not available in the original Dataset. This was achieved by using Excel's "RAND" Function.*
+
+        CLEANED DATA TABLE
+        ![Cleaned Data1](https://github.com/user-attachments/assets/1a691bb1-b786-4444-99a0-a93a17bfb7d5)
+
+    
         
     
     
