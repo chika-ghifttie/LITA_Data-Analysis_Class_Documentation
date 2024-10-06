@@ -29,7 +29,7 @@ The data used for this project was provided by our instructor via our Telegram g
       ![Dirty Data](https://github.com/user-attachments/assets/9863972a-afeb-4f74-9b96-9e8c3f7d0160)
 
     #### Cleaning Steps
-    To ensure a robust dataset and to facilitate analysis, I performed the following cleaning steps:
+    To ensure a robust dataset and to facilitate analysis, The following cleaning steps were performed:
       - *Addressed scattered formatting and unnecessary spacing in names,*
       - *A realistic Salary Data was also generated as this was not available in the original Dataset. This was achieved by using Excel's "RAND" Function.*
 
