@@ -62,6 +62,13 @@ The data used for this project was provided by our instructor via our Telegram g
 
           #### Findings And Insights
           ---
+            - Our analysis reveals that the sttaff in Kaduna receives the Highest Salary (49,974.00),
+            - While staff in Cross River receives the Fourth Highest Salary (46,981.00)
+
+              ---
+              ### Conclusion
+       
+          
           
 
         
