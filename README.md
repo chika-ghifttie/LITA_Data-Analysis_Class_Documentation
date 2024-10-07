@@ -50,12 +50,14 @@ The data used for this project was provided by our instructor via our Telegram g
 
           ### Data Analysis
           ---
-          This section provides a collection of some basic code,queries and even DAX expressions used in this analysis;
+          This section provides a collection of some basic code, queries and even DAX expressions used in this analysis;
 
           ```SSQL
-          SELECT Location, Salary FROM
-          Staff GROUP BY Location
+          SELECT Location, Salary
+          FROM Staff
+          ORDER BY Salary DESC;
           ```
+           
           ### Data Visualization
           ---
           ![Bar Chart 1](https://github.com/user-attachments/assets/e4cc6029-83df-4032-8d53-143b492e3529)
@@ -67,6 +69,7 @@ The data used for this project was provided by our instructor via our Telegram g
 
               ---
               ### Conclusion
+              Here, I have been able to demonstrate Data Extraction, Cleaning and Analysis Skills using various Tools such as Microsoft Excel, and SQL. Also, the application of Bar Chart has enhanced Data Visualization, allowing for clear comparison of state salaries and visual identification of trends and patterns, i.e the bar chart enabled us to clearly see the upward and downward movements in salaries across states as well as salary ranges across states.
        
           
           
