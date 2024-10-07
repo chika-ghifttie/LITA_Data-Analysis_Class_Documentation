@@ -56,6 +56,9 @@ The data used for this project was provided by our instructor via our Telegram g
           SELECT Location, Salary FROM
           Staff GROUP BY Location
           ```
+          ### Data Visualization
+          ---
+          
         
         
 
