@@ -58,7 +58,12 @@ The data used for this project was provided by our instructor via our Telegram g
           ```
           ### Data Visualization
           ---
+          ![Bar Chart 1](https://github.com/user-attachments/assets/e4cc6029-83df-4032-8d53-143b492e3529)
+
+          #### Findings And Insights
+          ---
           
+
         
         
 
