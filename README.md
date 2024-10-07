@@ -52,7 +52,8 @@ The data used for this project was provided by our instructor via our Telegram g
           ---
           This section provides a collection of some basic code, queries and even DAX expressions used in this analysis;
 
-          ```SSQL
+          ```SQL Structured Query Language)
+           
           SELECT Location, Salary
           FROM Staff
           ORDER BY Salary DESC;
